@@ -1,17 +1,15 @@
 <h1 align="center">Hi, I'm Tal Aharon</h1>
-<h3 align="center">A Dedicated and Passionate Backend & Embeded Developer</h3>
+<h3 align="center">A Dedicated and Passionate Backend & Embedded Developer</h3>
 
 <br/>
 
-- Im currently working on my (Private distributed cloud)[https://github.com/YamtalDev/Private-Distributed-Cloud] project.
+- Im currently working on my [Private distributed cloud](https://github.com/YamtalDev/Private-Distributed-Cloud) project.
 
-- Looking for front-end / full-stack oppotunities.
+- Looking for Backend / Embedded opportunities in the open source community and in the industry.
 
-- 🔎 I'm currently learning **Next, React, React-Native**
+- I'm currently learning **C++, Java and Node**
 
-- 👨‍💻 All of my projects are available at [https://eitanpano.github.io](https://eitanpano.github.io)
-
-- 💬 Ask me about **Typescript, Node.js, React** or just chat 🤓
+- Ask me about **Typescript, Node.js, React** or just chat 🤓
 
 - 📫 Reach me at **eitanpano95@gmail.com**
 
