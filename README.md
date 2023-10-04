@@ -22,9 +22,23 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/> </a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"/> </a> 
 </div>
 
+<br>
+<br>
 
-<br>
-<br>
+
+<div align="left">
+
+- **Im currently working on my [Private distributed cloud project](https://github.com/YamtalDev/Private-Distributed-Cloud)**
+
+- **Learning [Java](https://www.java.com/en/), [Spring framework](https://spring.io/), [C++](https://isocpp.org/), [python](https://www.python.org/) and networking.**
+
+- **looking for help with my [Linux developer experience project](https://github.com/YamtalDev/D.E.L.T)**
+
+- **Ask me about C/C++, Linux and system programming.**
+
+- **Fun fact Im a musician and an artist.**
+
+</div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact" width="365" hight="150" alt="yamtaldev" /> <img src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en" width="475" hight="150" alt="yamtaldev" />
@@ -38,19 +52,7 @@
 
 
 
-</p>
 
-- **Im currently working on my [Private distributed cloud project](https://github.com/YamtalDev/Private-Distributed-Cloud)**
-
-- **Learning [Java](https://www.java.com/en/), [Spring framework](https://spring.io/), [C++](https://isocpp.org/), [python](https://www.python.org/) and networking.**
-
-- **looking for help with my [Linux developer experience project](https://github.com/YamtalDev/D.E.L.T)**
-
-- **Ask me about C/C++, Linux and system programming.**
-
-- **Fun fact Im a musician and an artist.**
-
-</p>
 
 
 <h3 align="center">Connect with me:</h3>
