@@ -12,7 +12,7 @@
 
 - **Fun fact Im a musician and an artist.**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&" alt="YamtalDev" width="400" ></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&" alt="YamtalDev" width="600" ></p>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact" alt="YamtalDev" width="300" height="250" />
