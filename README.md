@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en" alt="yamtaldev" width="400" height="300" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en" alt="yamtaldev" width="400" height="400" />
 </p>
 
 
