@@ -48,14 +48,14 @@
 
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact&theme=transparent" width="313" hight="150" alt="yamtaldev" /> <img src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en&theme=transparent" width="412" hight="150" alt="yamtaldev" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact&theme=transparent" width="353" hight="150" alt="yamtaldev" /> <img src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en&theme=transparent" width="477" hight="150" alt="yamtaldev" />
 </div>
 
 <br>
 <br>
 
 <div align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&theme=transparent" width="500" alt="yamtaldev" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&theme=transparent" width="700" alt="yamtaldev" />
 </div>
 
 <br>
@@ -63,7 +63,7 @@
 
 <div align="left">
 <a href="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i" width="500" alt="Spotify recently played"/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i" width="700" alt="Spotify recently played"/>
 </a>
 </div>
 
