@@ -5,19 +5,19 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact" width="365" hight="150 alt="yamtaldev" /> <img src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en" width="475" hight="150 alt="yamtaldev" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact" width="365" hight="150" alt="yamtaldev" /> <img src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en" width="475" hight="150" alt="yamtaldev" />
 </div>
 
 
 
 
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&" alt="YamtalDev" width="720">
-</div>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&" alt="YamtalDev" width="720">
+</p>
 
 
-<div align="left">
+</p>
 
 - **Im currently working on my [Private distributed cloud project](https://github.com/YamtalDev/Private-Distributed-Cloud)**
 
@@ -29,7 +29,7 @@
 
 - **Fun fact Im a musician and an artist.**
 
-</left>
+</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /> </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> </a> <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  /> </a> <a href="https://html.com/html5/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  /> </a> </p>
