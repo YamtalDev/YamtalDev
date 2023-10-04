@@ -1,10 +1,7 @@
 <h1 align="left">Hi, I'm Tal Aharon</h1>
 
-<h3 align="left">A dedicated passionate and self-taught Backend & Embedded software Developer from Israel. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source and Unix based OS's enthusiast. I learned a lot from the 
-open-source community and i love how collaboration and knowledge sharing happened through open-source.
-</h3>
+<h2 align="left">A highly motivated Physics and Electrical Engineering dual-degree student from Israel with a strong passion for Backend & Embedded software development and a fascination with Unix-based operating systems. My passion for software lies with dreaming up ideas and making them come true with elegant implementations and design. My diverse practical experience has honed my problem-solving skills and adaptability. Proficient in languages like C/C++, Java, and Python, I'm eager to leverage my technical skills and creativity to contribute as a Software Engineer. In my free time, I'm an avid rock climber, runner, and music enthusiast.
+</h2>
 
 - **Im currently working on my [Private distributed cloud project](https://github.com/YamtalDev/Private-Distributed-Cloud)**
 
