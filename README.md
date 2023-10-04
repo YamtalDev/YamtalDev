@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<div align="center">
+<div align="left">
 
 - **Im currently working on my [Private distributed cloud project](https://github.com/YamtalDev/Private-Distributed-Cloud)**
 
@@ -46,13 +46,13 @@
 <br>
 <br>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&theme=transparent" width="700" alt="yamtaldev" />
+<div align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&theme=transparent" width="600" alt="yamtaldev" />
 </div>
 
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact&theme=transparent" width="363" hight="150" alt="yamtaldev" /> <img src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en&theme=transparent" width="477" hight="150" alt="yamtaldev" />
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact&theme=transparent" width="333" hight="150" alt="yamtaldev" /> <img src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en&theme=transparent" width="477" hight="120" alt="yamtaldev" />
 </div>
 
 <br>
