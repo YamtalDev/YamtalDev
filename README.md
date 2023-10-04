@@ -12,10 +12,9 @@
 
 
 
-<p>
+<div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&" alt="YamtalDev" width="720">
-</p>
-
+</div>
 
 </p>
 
