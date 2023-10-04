@@ -3,8 +3,18 @@
 **A highly motivated Backend & Embedded software developer from Israel. Passionate with Unix-based operating systems. My passion for software lies with dreaming up ideas and making them come true with elegant implementations and design. My diverse practical experience has honed my problem-solving skills and adaptability. Proficient in languages like C/C++, Java, and shell scripting, I'm eager to leverage my technical skills and creativity to contribute as a Software Engineer. In my free time, I'm an avid rock climber, scuba diver, and music enthusiast.**
 
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YamtalDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YamtalDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&" alt="YamtalDev" width="720">
 </p>
 
+
+</p>
 
 - **Im currently working on my [Private distributed cloud project](https://github.com/YamtalDev/Private-Distributed-Cloud)**
 
@@ -36,34 +46,8 @@
 
 
 
-
-
-
-
-  
-
-  
-
-
-
-
-
-
-
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YamtalDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YamtalDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&" alt="YamtalDev" width="720">
-</p>
-
-
-<div align="left">
 <h3 align="center">Connect with me:</h3>
+<div align="left">
 <p align="center">
   <a href="https://www.linkedin.com/in/tal-aharon-930451215/" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a>
 
@@ -72,17 +56,10 @@
 </div>
 
 
-
-
-
-
-
-
   <a href="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i">
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
   </a>
 
-###
 
 <div align="left">
   <img width="12" />
