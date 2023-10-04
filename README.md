@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<div align="left">
+<div align="center">
 
 - **Im currently working on my [Private distributed cloud project](https://github.com/YamtalDev/Private-Distributed-Cloud)**
 
