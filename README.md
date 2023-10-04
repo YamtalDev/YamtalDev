@@ -55,7 +55,7 @@
 <br>
 
 <div align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&theme=transparent" width="700" alt="yamtaldev" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&theme=transparent" width="800" alt="yamtaldev" />
 </div>
 
 <br>
@@ -63,7 +63,7 @@
 
 <div align="left">
 <a href="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i" width="700" alt="Spotify recently played"/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i" width="800" alt="Spotify recently played"/>
 </a>
 </div>
 
