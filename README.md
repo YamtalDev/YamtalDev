@@ -43,7 +43,7 @@
 - **Fun fact Im a musician and an artist.**
 </div>
     <div style="flex: 1;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&theme=transparent" width="500" alt="yamtaldev" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&theme=transparent" width="400" alt="yamtaldev" />
     </div>
 </div>
 
