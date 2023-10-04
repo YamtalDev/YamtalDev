@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact" hight="150 alt="yamtaldev" /> <img src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en" width="50" hight="150 alt="yamtaldev" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact" hight="150 alt="yamtaldev" /> <img src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en" width="500" hight="150 alt="yamtaldev" />
 </div>
 
 
