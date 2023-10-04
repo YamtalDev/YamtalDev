@@ -4,7 +4,7 @@
 
 - **Im currently working on my [Private distributed cloud project](https://github.com/YamtalDev/Private-Distributed-Cloud)**
 
-- I’m currently learning **Java, Spring framwork, C++ and networking.**
+- **I’m currently learning **Java, Spring framework, C++ and networking.****
 
 - I’m looking for help with my linux shell [D.E.L.T Project](https://github.com/YamtalDev/D.E.L.T)
 
