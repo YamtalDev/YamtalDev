@@ -22,7 +22,7 @@
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&" alt="YamtalDev" width="730">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&" alt="YamtalDev" width="710">
 </p>
 
 <h3 align="center">Languages:</h3>
