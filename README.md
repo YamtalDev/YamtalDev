@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Tal Aharon</h1>
 <h3 align="center">A dedicated and passionate Backend & Embedded software Developer from Israel</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yamtaldev" alt="yamtaldev" /></a> </p>
-
 - Im currently working on my [Private distributed cloud project](https://github.com/YamtalDev/Private-Distributed-Cloud)
 
 - I’m currently learning **Java, Spring framwork, C++ and networking.**
