@@ -13,7 +13,7 @@
 - **Fun fact Im a musician and an artist.**
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact" alt="yamtaldev" width="200" height="150" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact" alt="yamtaldev" width="400" height="250" />
 </p>
 
 <p>
