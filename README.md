@@ -12,14 +12,13 @@
 
 - **Fun fact Im a musician and an artist.**
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact" alt="yamtaldev" width="400" height="250" />
-</p>
+<div style="float: left;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact" alt="yamtaldev" width="400" height="250" />
+</div>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en" alt="yamtaldev" width="400" height="550" />
-</p>
-
+<div style="float: left; margin-left: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en" alt="yamtaldev" width="400" height="550" />
+</div>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&" alt="yamtaldev" /></p>
