@@ -10,11 +10,11 @@
 
 - **Ask me about C/C++ and system programming.**
 
-- **Fun fact - Im a musician and an artist.**
+- **Fun fact Im a musician and an artist.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tal aharon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tal aharon" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/tal-aharon-930451215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tal aharon" height="30" width="40" /></a>
 <a href="https://fb.com/tal aharon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tal aharon" height="30" width="40" /></a>
 <a href="https://medium.com/@tal aharon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tal aharon" height="30" width="40" /></a>
 </p>
