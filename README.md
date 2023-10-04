@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Tal Aharon</h1>
-<h3 align="center">A dedicated and passionate Backend & Embedded software Developer from Israel</h3>
 
-- Im currently working on my [Private distributed cloud project](https://github.com/YamtalDev/Private-Distributed-Cloud)
+<h2 align="center">A dedicated and passionate Backend & Embedded software Developer from Israel</h2>
+
+- **Im currently working on my [Private distributed cloud project](https://github.com/YamtalDev/Private-Distributed-Cloud)**
 
 - I’m currently learning **Java, Spring framwork, C++ and networking.**
 
