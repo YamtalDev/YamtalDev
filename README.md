@@ -2,6 +2,13 @@
 
 **A highly motivated Backend & Embedded software developer from Israel. Passionate with Unix-based operating systems. My passion for software lies with dreaming up ideas and making them come true with elegant implementations and design. My diverse practical experience has honed my problem-solving skills and adaptability. I'm eager to leverage my technical skills and creativity to contribute as a Software Engineer. In my free time, I'm an avid rock climber, scuba diver, and music enthusiast.**
 
+<br>
+
+<div style="position: relative; z-index: 1;">
+        <img src="./art/image.jpg" alt="Other Image">
+        <p>This is some text.</p>
+</div>
+
 <h3 align="left">Languages:</h3>
 <div align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /> </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> </a> <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  /> </a> <a href="https://html.com/html5/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  /> </a> </div>
@@ -54,9 +61,15 @@
 <br>
 
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&" width="300" alt="yamtaldev" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&" width="700" alt="yamtaldev" />
+</div>
+
+<br>
+<br>
+
+<div align="center">
 <a href="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i" width="300" alt="Spotify recently played"/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i" width="700" alt="Spotify recently played"/>
 </a>
 </div>
 
