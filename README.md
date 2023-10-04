@@ -4,15 +4,13 @@
 
 - **Im currently working on my [Private distributed cloud project](https://github.com/YamtalDev/Private-Distributed-Cloud)**
 
-- ***I’m currently learning Java, Spring framework, C++ and networking.***
+- **Learning Java, Spring framework, C++, python and networking.**
 
-- I’m looking for help with my linux shell [D.E.L.T Project](https://github.com/YamtalDev/D.E.L.T)
+- **looking for help with my linux shell [D.E.L.T Project](https://github.com/YamtalDev/D.E.L.T)**
 
-- Ask me about **C/C++ and System programing.**
+- **Ask me about C/C++ and System programming.**
 
-- Contact me **tal.aharon.work@gmail.com**
-
-- Fun fact **Im a musician and an artist.**
+- **Fun fact Im a musician and an artist.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
