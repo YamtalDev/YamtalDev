@@ -115,29 +115,9 @@
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/YamtalDev/count.svg?"  />
-</div>
-
-###
-
 <p align="left">Hello World!!</p>
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/YamtalDev/count.svg?"  />
-</div>
 
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
 
 <img src="https://raw.githubusercontent.com/YamtalDev/YamtalDev/output/snake.svg" alt="Snake animation" />
-
-###
