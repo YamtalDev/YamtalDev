@@ -31,16 +31,25 @@
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        - **Im currently working on my [Private distributed cloud project](https://github.com/YamtalDev/Private-Distributed-Cloud)**
-        - **Learning [Java](https://www.java.com/en/), [Spring framework](https://spring.io/), [C++](https://isocpp.org/), [python](https://www.python.org/) and networking.**
-        - **looking for help with my [Linux developer experience project](https://github.com/YamtalDev/D.E.L.T)**
-        - **Ask me about C/C++, Linux and system programming.**
-        - **Fun fact Im a musician and an artist.**
-    </div>
+
+- **Im currently working on my [Private distributed cloud project](https://github.com/YamtalDev/Private-Distributed-Cloud)**
+
+- **Learning [Java](https://www.java.com/en/), [Spring framework](https://spring.io/), [C++](https://isocpp.org/), [python](https://www.python.org/) and networking.**
+
+- **looking for help with my [Linux developer experience project](https://github.com/YamtalDev/D.E.L.T)**
+
+- **Ask me about C/C++, Linux and system programming.**
+
+- **Fun fact Im a musician and an artist.**
+</div>
     <div style="flex: 1;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&theme=transparent" width="500" alt="yamtaldev" />
     </div>
 </div>
+
+
+
+
 
 
 <br>
