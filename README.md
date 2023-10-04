@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Tal Aharon</h1>
+<h1 align="left">Hi, I'm Tal Aharon</h1>
 
-<h2 align="center">A dedicated and passionate Backend & Embedded software Developer from Israel</h2>
+<h2 align="left">A dedicated and passionate Backend & Embedded software Developer from Israel</h2>
 
 - **Im currently working on my [Private distributed cloud project](https://github.com/YamtalDev/Private-Distributed-Cloud)**
 
