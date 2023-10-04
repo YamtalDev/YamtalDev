@@ -14,8 +14,16 @@
 
 <h3 align="left">Tools:</h3>
 <div align="left"> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /> </a> <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  /> </a> <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img width="12"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"/> </a>
 </div>
+
+
+
+
+
+
+
+
 
 <h3 align="left">Backend:</h3>
 <div align="left">  
@@ -64,25 +72,6 @@
   <a href="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i">
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
   </a>
-
-
-<div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-
-
-
-  <img width="12" />
-  
-</div>
-
-
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YamtalDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
