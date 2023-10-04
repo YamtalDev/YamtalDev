@@ -72,9 +72,10 @@
 </div>
 
 
-
+<div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact" alt="yamtaldev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en" alt="yamtaldev" /></p>
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&" alt="yamtaldev" /></p>
