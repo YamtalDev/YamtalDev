@@ -47,21 +47,22 @@
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact" width="365" hight="150" alt="yamtaldev" /> <img src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en" width="475" hight="150" alt="yamtaldev" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact" width="363" hight="150" alt="yamtaldev" /> <img src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en" width="475" hight="150" alt="yamtaldev" />
 </div>
 
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&" alt="yamtaldev" />
 </div>
 
+<div align="center">
+<a href="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i" width="300" alt="Spotify recently played"/>
+</a>
+</div>
+
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/tal-aharon-930451215/" target="blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a> <a href="https://discordapp.com/users/996021603253100575" target="blank"> <img src="https://cdn.simpleicons.org/discord/5865F2" width="52" height="40" alt="discord logo"  /> </a> <a href="" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="52" height="40" alt="slack logo"/> </a> <a href="https://www.facebook.com/tal.aharon.395/" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="52" height="40" alt="facebook logo"  /> </a> <a href="https://medium.com/@anatolik241094" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="52" height="40" alt="medium logo"  /> </a>
 </div>
 
-<div align="center">
-
-<a href="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i" alt="Spotify recently played"  />
-</a>
-</div>
