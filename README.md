@@ -5,7 +5,7 @@
 <br>
 
 <div style="position: relative; z-index: 1;">
-        <img src="./art/image.jpg" alt="Other Image">
+        <img src="./art/image.png" alt="Image">
         <p>This is some text.</p>
 </div>
 
