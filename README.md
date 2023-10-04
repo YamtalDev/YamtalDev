@@ -12,9 +12,8 @@
 
 
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&" alt="YamtalDev" width="720">
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&" alt="yamtaldev" /></p>
+
 
 
 </p>
