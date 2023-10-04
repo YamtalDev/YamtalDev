@@ -2,13 +2,6 @@
 
 **A highly motivated Backend & Embedded software developer from Israel. Passionate with Unix-based operating systems. My passion for software lies with dreaming up ideas and making them come true with elegant implementations and design. My diverse practical experience has honed my problem-solving skills and adaptability. I'm eager to leverage my technical skills and creativity to contribute as a Software Engineer. In my free time, I'm an avid rock climber, scuba diver, and music enthusiast.**
 
-<br>
-
-<div style="position: relative; z-index: 1;">
-        <img src="./art/image.png" alt="Image">
-        <p>This is some text.</p>
-</div>
-
 <h3 align="left">Languages:</h3>
 <div align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /> </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> </a> <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  /> </a> <a href="https://html.com/html5/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  /> </a> </div>
@@ -31,6 +24,10 @@
 <h3 align="left">Design tools:</h3>
 <div align="left"> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/> </a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"/> </a> 
+</div>
+
+<div style="position: relative; z-index: 1;">
+        <img src="./art/image.png" alt="Image">
 </div>
 
 <br>
