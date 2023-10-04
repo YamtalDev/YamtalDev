@@ -52,7 +52,7 @@
 
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact&theme=transparent" width="333" hight="150" alt="yamtaldev" /> <img src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en&theme=transparent" width="447" hight="150" alt="yamtaldev" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact&theme=transparent" width="313" hight="150" alt="yamtaldev" /> <img src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en&theme=transparent" width="417" hight="150" alt="yamtaldev" />
 </div>
 
 <br>
