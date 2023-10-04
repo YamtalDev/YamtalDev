@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: left;">
     <div style="flex: 1;">
 
 - **Im currently working on my [Private distributed cloud project](https://github.com/YamtalDev/Private-Distributed-Cloud)**
@@ -43,7 +43,7 @@
 - **Fun fact Im a musician and an artist.**
 </div>
     <div style="flex: 1;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&theme=transparent" width="200" alt="yamtaldev" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&theme=transparent" width="300" alt="yamtaldev" />
     </div>
 </div>
 
