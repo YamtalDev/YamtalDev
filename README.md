@@ -53,8 +53,8 @@
 <br>
 <br>
 
-<div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&" width="700" alt="yamtaldev" />
+<div align="left">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&" width="500" alt="yamtaldev" />
 </div>
 
 <br>
