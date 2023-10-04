@@ -55,7 +55,7 @@
 <br>
 
 <div align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&theme=transparent" width="850" alt="yamtaldev" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yamtaldev&theme=transparent" width="850" alt="yamtaldev"/>
 </div>
 
 <br>
