@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Tal Aharon</h1>
 
-A highly motivated Backend & Embedded software developer from Israel. Passionate with Unix-based operating systems [Pop!_OS](https://pop.system76.com/), Ubuntu. My passion for software lies with dreaming up ideas and making them come true with elegant implementations and design. My diverse practical experience has honed my problem-solving skills and adaptability. Proficient in languages like C/C++, Java, and Python, I'm eager to leverage my technical skills and creativity to contribute as a Software Engineer. In my free time, I'm an avid rock climber, runner, and music enthusiast.
+A highly motivated Backend & Embedded software developer from Israel. Passionate with Unix-based operating systems ([Pop!_OS](https://pop.system76.com/), [Ubuntu](https://ubuntu.com/)). My passion for software lies with dreaming up ideas and making them come true with elegant implementations and design. My diverse practical experience has honed my problem-solving skills and adaptability. Proficient in languages like C/C++, Java, and Python, I'm eager to leverage my technical skills and creativity to contribute as a Software Engineer. In my free time, I'm an avid rock climber, runner, and music enthusiast.
 
 - **Im currently working on my [Private distributed cloud project](https://github.com/YamtalDev/Private-Distributed-Cloud)**
 
