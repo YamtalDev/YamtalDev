@@ -14,9 +14,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+// update this to the mail 
+<a href="https://medium.com/@anatolik241094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="@tal aharon" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tal-aharon-930451215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tal aharon" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tal.aharon.395/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tal aharon" height="30" width="40" /></a>
-<a href="https://medium.com/@anatolik241094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tal aharon" height="30" width="40" /></a>
 <a href="https://medium.com/@anatolik241094" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tal aharon" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
