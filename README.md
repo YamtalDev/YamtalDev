@@ -26,11 +26,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/> </a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"/> </a> 
 </div>
 
-<div style="position: relative; z-index: 1;">
-        <img src="./art/image.png" alt="Image">
-</div>
-
-
 <br>
 <br>
 
