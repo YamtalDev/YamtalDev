@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact" hight="150 alt="yamtaldev" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en" hight="150 alt="yamtaldev" />
+<img width="40" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact" hight="150 alt="yamtaldev" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en" hight="150 alt="yamtaldev" />
 </div>
 
 
@@ -13,8 +13,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YamtalDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YamtalDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=YamtalDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YamtalDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <p>
