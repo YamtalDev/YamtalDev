@@ -10,20 +10,18 @@
 
 <div align="left">
 
-<a href="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i" width="850" alt="Spotify recently played"/> </a>
-
-</div>
-
-
-<div align="left">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact&theme=transparent" width="363" hight="150" alt="yamtaldev" /> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en&theme=transparent" width="477" hight="150" alt="yamtaldev"/>
 
 </div>
 
+<div align="left">
+
+<a href="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i" width="850" alt="Spotify recently played"/> </a>
+
+</div>
 
 <div align="left">
 
@@ -53,19 +51,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40"/> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </div>
 
-<h3 align="left">Softwares:</h3>
-<div align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  /> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="40"/> </a>  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"/> </a> <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img width="12" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" /> </a> <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo"  /> </a> 
-</div>
-
 <h3 align="left">Tools:</h3>
 <div align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img width="12" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /> </a> <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  /> </a> <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img width="12"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"/> </a>
 </div>
 
-
+<h3 align="left">Softwares:</h3>
+<div align="left">
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  /> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="40"/> </a>  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"/> </a> <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img width="12" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" /> </a> <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img width="12" /> <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo"  /> </a> 
+</div>
 
 <h3 align="left">Design tools:</h3>
 <div align="left"> 
