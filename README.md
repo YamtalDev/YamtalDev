@@ -8,6 +8,10 @@
 
 </div>
 
+<div align="left">
+<a href="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i" width="850" alt="Spotify recently played"/> </a>
+</div>
 
 
 <div align="left">
@@ -60,12 +64,6 @@
 
 <br>
 <br>
-
-<div align="left">
-<a href="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i" width="850" alt="Spotify recently played"/> </a>
-</div>
-
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
