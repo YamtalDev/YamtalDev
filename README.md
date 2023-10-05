@@ -2,6 +2,22 @@
 
 **A highly motivated Backend & Embedded software developer from Israel. Passionate with Unix-based operating systems. My passion for software lies with dreaming up ideas and making them come true with elegant implementations and design. My diverse practical experience has honed my problem-solving skills and adaptability. I'm eager to leverage my technical skills and creativity to contribute as a Software Engineer. In my free time, I'm an avid rock climber, scuba diver, and music enthusiast.**
 
+
+<div align="left">
+
+- **Im currently working on my [Private distributed cloud project](https://github.com/YamtalDev/Private-Distributed-Cloud)**
+
+- **Learning [Java](https://www.java.com/en/), [Spring framework](https://spring.io/), [C++](https://isocpp.org/), [python](https://www.python.org/) and networking.**
+
+- **looking for help with my [Linux developer experience project](https://github.com/YamtalDev/D.E.L.T)**
+
+- **Ask me about C/C++, Linux and system programming.**
+
+- **Fun fact I used to train sharks in the Israeli Aquarium.**
+
+</div>
+
+
 <div align="left">
 
 <img src="./art/image.png" width="850" alt="yamtaldev" /> 
@@ -19,19 +35,7 @@
 </div>
 
 
-<div align="left">
 
-- **Im currently working on my [Private distributed cloud project](https://github.com/YamtalDev/Private-Distributed-Cloud)**
-
-- **Learning [Java](https://www.java.com/en/), [Spring framework](https://spring.io/), [C++](https://isocpp.org/), [python](https://www.python.org/) and networking.**
-
-- **looking for help with my [Linux developer experience project](https://github.com/YamtalDev/D.E.L.T)**
-
-- **Ask me about C/C++, Linux and system programming.**
-
-- **Fun fact I used to train sharks in the Israeli Aquarium.**
-
-</div>
 
 
 <h3 align="left">Languages:</h3>
