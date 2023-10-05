@@ -4,7 +4,7 @@
 
 <div align="left">
 
-<img src="./art/image.png" width="363" hight="150" alt="yamtaldev" /> 
+<img src="./art/image.png" width="600" alt="yamtaldev" /> 
 
 </div>
 
