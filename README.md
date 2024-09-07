@@ -46,20 +46,7 @@
 
 </div>
 
-<div align="left">
-
-<img src="./art/image.png" width="850" alt="yamtaldev" /> 
-
-</div>
-
-<div align="left">
-
-<a href="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i" width="850" alt="Spotify recently played"/> </a>
-
-</div>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect me:</h3>
 <div align="left">
 
 <a href="https://www.linkedin.com/in/tal-aharon-930451215/" target="blank"> 
@@ -79,6 +66,19 @@
 
 <a href="https://medium.com/@anatolik241094" target="blank"> 
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="52" height="40" alt="medium logo"  /> </a>
+
+</div>
+
+<div align="left">
+
+<img src="./art/image.png" width="850" alt="yamtaldev" /> 
+
+</div>
+
+<div align="left">
+
+<a href="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i" width="850" alt="Spotify recently played"/> </a>
 
 </div>
 
