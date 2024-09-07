@@ -1,10 +1,10 @@
 <h1 align="left">About Me</h1>
 
-**I'm Tal Aharon, a passionate and motivated C++ Software Engineer with a diverse background in backend and systems development. Currently, I mentor junior developers, guiding them in backend projects, software best practices, and integrating into the vibrant developer culture.**
+**I'm Tal Aharon, a passionate and motivated C++ Software Engineer with a diverse background in backend and systems development. I mentor junior developers, guiding them through backend projects, software best practices, and helping them integrate into the vibrant developer community.**
 
-**A student in dual degree in Physics and Electrical Engineering, I have honed my technical skills through various roles, from leading high-performance GPU-Accelerated database engine development at [SQream](https://sqream.com/) to research and software development in academic labs. I thrive in Unix-based environments and enjoy tackling complex challenges with innovative solutions.**
+**As a dual-degree student in Physics and Electrical Engineering, I’ve honed my technical skills across various roles—from leading the development of high-performance GPU-accelerated database engines at SQream to conducting research and software development in academic labs. I thrive in Unix-based environments and excel at solving complex challenges with innovative solutions.**
 
-**Outside of work, I enjoy rock climbing, scuba diving, sailing, mentoring, and being a dad to my sweet baby. I'm always eager to leverage my skills and creativity to make a meaningful impact.**
+**Outside of work, I enjoy rock climbing, scuba diving, sailing, mentoring, and spending time with my little kid. I'm always eager to leverage my skills and creativity to make a meaningful impact.**
 
 ### Programming Languages
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
@@ -46,6 +46,19 @@
 
 </div>
 
+<div align="left">
+
+<img src="./art/image.png" width="850" alt="yamtaldev" /> 
+
+</div>
+
+<div align="left">
+
+<a href="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i" width="850" alt="Spotify recently played"/> </a>
+
+</div>
+
 <h3 align="left">Connect me:</h3>
 <div align="left">
 
@@ -68,18 +81,3 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="52" height="40" alt="medium logo"  /> </a>
 
 </div>
-
-<div align="left">
-
-<img src="./art/image.png" width="850" alt="yamtaldev" /> 
-
-</div>
-
-<div align="left">
-
-<a href="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=vp7uxscq85yld7fbkr2a0zp4i" width="850" alt="Spotify recently played"/> </a>
-
-</div>
-
-
