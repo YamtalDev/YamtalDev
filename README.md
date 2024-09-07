@@ -36,23 +36,19 @@
 
 
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YamtalDev&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">    
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YamtalDev)](https://github.com/YamtalDev/github-readme-stats)
-  
-[![Tal Aharon GitHub stats](https://github-readme-stats.vercel.app/api?username=YamtalDev)](https://github.com/YamtalDev/github-readme-stats)
-
-<div align="left">
-
-<img src="./art/image.png" width="850" alt="yamtaldev" /> 
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yamtaldev&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">    
 
 <div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamtaldev&show_icons=true&locale=en&layout=compact&theme=transparent" width="363" hight="150" alt="yamtaldev" /> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=yamtaldev&show_icons=true&locale=en&theme=transparent" width="478" hight="150" alt="yamtaldev"/>
+
+</div>
+
+<div align="left">
+
+<img src="./art/image.png" width="850" alt="yamtaldev" /> 
 
 </div>
 
