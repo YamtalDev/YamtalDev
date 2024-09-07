@@ -1,22 +1,36 @@
-<h1 align="left">Hi, I'm Tal Aharon</h1>
+<h1 align="left">About Me</h1>
 
-**A highly motivated Backend & Embedded software developer from Israel. Passionate with Unix-based operating systems. My passion for software lies with dreaming up ideas and making them come true with elegant implementations and design. My diverse practical experience has honed my problem-solving skills and adaptability. I'm eager to leverage my technical skills and creativity to contribute as a Software Engineer. In my free time, I'm an avid rock climber, scuba diver, and music enthusiast.**
+**I'm Tal Aharon, a passionate and motivated C++ Software Engineer with a diverse background in backend and systems development. Currently, I mentor junior developers, guiding them in backend projects, software best practices, and integrating into the vibrant developer culture.**
 
+**A student in dual degree in Physics and Electrical Engineering, I have honed my technical skills through various roles, from leading high-performance GPU-Accelerated database engine development at [SQream](https://sqream.com/) to research and software development in academic labs. I thrive in Unix-based environments and enjoy tackling complex challenges with innovative solutions.**
 
-<div align="left">
+**Outside of work, I enjoy rock climbing, scuba diving, sailing, mentoring, and being a dad to my sweet baby. I'm always eager to leverage my skills and creativity to make a meaningful impact.**
 
-**Im currently working on my [Private distributed cloud project](https://github.com/YamtalDev/Private-Distributed-Cloud)**
-
-**Learning [Java](https://www.java.com/en/), [Spring framework](https://spring.io/), [C++](https://isocpp.org/), [python](https://www.python.org/) and networking.**
-
-**looking for help with my [Linux developer experience project](https://github.com/YamtalDev/D.E.L.T)**
-
-**Ask me about C/C++, Linux and system programming.**
-
-**Fun fact I used to train sharks in the Israeli Aquarium.**
-
-</div>
-
+### Languages and Tools
+<!--
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<br><br /> -->
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
 
 
 <div align="left">
