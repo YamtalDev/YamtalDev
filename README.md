@@ -1,8 +1,8 @@
 <h1 align="left">About Me</h1>
 
-**I'm Tal Aharon, a passionate and motivated C++ Software Engineer with a diverse background in backend and systems development. I mentor junior developers, guiding them through backend projects, software best practices, and helping them integrate into the vibrant developer community.**
+**I'm Tal Aharon, a passionate and motivated C++ Software Engineer with a diverse background in backend and systems development.**
 
-**As a dual-degree student in Physics and Electrical Engineering, I’ve honed my technical skills across various roles—from leading the development of high-performance GPU-accelerated database engines at SQream to conducting research and software development in academic labs. I thrive in Unix-based environments and excel at solving complex challenges with innovative solutions.**
+**I’ve honed my technical skills across various roles—from leading the development of high-performance GPU-accelerated database engines at SQream to conducting research and software development in TLV and Ariel university academic labs. I thrive in Unix-based environments.**
 
 **Outside of work, I enjoy rock climbing, scuba diving, sailing, mentoring, and spending time with my little kid. I'm always eager to leverage my skills and creativity to make a meaningful impact.**
 
@@ -13,8 +13,8 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 ### Tools and Technologies
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
